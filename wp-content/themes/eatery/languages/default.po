@@ -1,0 +1,995 @@
+# Copyright (C) 2013 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Eatery\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2013-05-02 18:03-0800\n"
+"PO-Revision-Date: 2013-05-02 18:03-0800\n"
+"Last-Translator: Themovation <themovation@gmail.com>\n"
+"Language-Team: Themovation <themomvation@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:12
+msgid ""
+"Oops, it looks like something went wrong. The main menu should help you find "
+"what you want."
+msgstr ""
+
+#: ../archive.php:15 ../home.php:15 ../search.php:31 ../single.php:19
+#: ../framework/shortcodes/show_posts.php:51
+msgid "Posted on"
+msgstr ""
+
+#: ../archive.php:15 ../home.php:15 ../search.php:31 ../single.php:19
+#: ../framework/shortcodes/show_posts.php:51
+msgid "in"
+msgstr ""
+
+#: ../archive.php:15 ../home.php:15 ../search.php:31 ../single.php:19
+#: ../framework/shortcodes/show_posts.php:51
+msgid "Comments&nbsp;&raquo;"
+msgstr ""
+
+#: ../archive.php:18 ../home.php:18 ../framework/shortcodes/show_posts.php:53
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../archive.php:29 ../home.php:29 ../search.php:52
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: ../archive.php:30 ../home.php:30 ../search.php:53
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: ../comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:25
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:32 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:74
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Leave a Comment"
+msgstr "Leae a comment eh!"
+
+#: ../comments.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Submit Comment"
+msgstr ""
+
+#: ../functions.php:192
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:192 ../functions.php:220
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:209
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: ../functions.php:215
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:221
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:225
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../header.php:19
+#, php-format
+msgid "%s latest posts"
+msgstr ""
+
+#: ../header.php:20
+#, php-format
+msgid "%s latest comments"
+msgstr ""
+
+#: ../home.php:23 ../framework/shortcodes/show_posts.php:61
+msgid "Read&nbsp;more&nbsp;&raquo;"
+msgstr ""
+
+#: ../reservations-page.php:68
+msgid "There are errors with your reservation"
+msgstr ""
+
+#: ../reservations-page.php:70
+msgid "Please enter your full name"
+msgstr ""
+
+#: ../reservations-page.php:71
+msgid "Please enter the # of guests"
+msgstr ""
+
+#: ../reservations-page.php:72
+msgid "Please enter the month of your reservation"
+msgstr ""
+
+#: ../reservations-page.php:73
+msgid "Please enter the day of your reservation"
+msgstr ""
+
+#: ../reservations-page.php:74
+msgid "Please enter the hour of your reservation"
+msgstr ""
+
+#: ../reservations-page.php:75
+msgid "Please enter the minute of your reservation"
+msgstr ""
+
+#: ../reservations-page.php:76
+msgid "Please tell us if your reservation is AM or PM"
+msgstr ""
+
+#: ../reservations-page.php:77
+msgid "Please enter your phone number"
+msgstr ""
+
+#: ../reservations-page.php:78
+msgid "Please enter your email address"
+msgstr ""
+
+#: ../reservations-page.php:91
+msgid ""
+"Sorry, but your request was not sent; please try again. If this error "
+"happens again please contact us directly."
+msgstr ""
+
+#: ../reservations-page.php:94
+msgid "Request sent. Thank you"
+msgstr ""
+
+#: ../reservations-page.php:105 ../reservations-page.php:110
+msgid "Full Name"
+msgstr ""
+
+#: ../reservations-page.php:106 ../reservations-page.php:117
+msgid "Month"
+msgstr ""
+
+#: ../reservations-page.php:107 ../reservations-page.php:118
+msgid "Day"
+msgstr ""
+
+#: ../reservations-page.php:108 ../reservations-page.php:177
+msgid "Phone"
+msgstr ""
+
+#: ../reservations-page.php:111
+msgid "# of Guests"
+msgstr ""
+
+#: ../reservations-page.php:128
+msgid "Hour"
+msgstr ""
+
+#: ../reservations-page.php:147
+msgid "Minutes"
+msgstr ""
+
+#: ../reservations-page.php:160
+msgid "No Option"
+msgstr ""
+
+#: ../reservations-page.php:183
+msgid "Email"
+msgstr ""
+
+#: ../reservations-page.php:189
+msgid "Comments / notes (optional)"
+msgstr ""
+
+#: ../reservations-page.php:196
+msgid "Send Request"
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:47
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../single.php:27
+msgid "Older Posts &raquo;"
+msgstr ""
+
+#: ../single.php:28
+msgid "&laquo; Newer Posts"
+msgstr ""
+
+#: ../wp_mail.php:36
+msgid "(Email not provided)"
+msgstr ""
+
+#: ../wp_mail.php:42
+msgid "(Phone not provided)"
+msgstr ""
+
+#: ../wp_mail.php:73
+msgid "A new reservation from "
+msgstr ""
+
+#: ../wp_mail.php:307
+msgid "You have received a new reservation from"
+msgstr ""
+
+#: ../wp_mail.php:307
+msgid "for"
+msgstr ""
+
+#: ../wp_mail.php:307
+msgid "guests"
+msgstr ""
+
+#: ../wp_mail.php:307
+msgid "Please email"
+msgstr ""
+
+#: ../wp_mail.php:307
+msgid "or call"
+msgstr ""
+
+#: ../wp_mail.php:307
+msgid "to confirm"
+msgstr ""
+
+#: ../wp_mail.php:308
+msgid "Comments"
+msgstr ""
+
+#: ../framework/admin/options/advanced.php:34
+msgid " Theme Advanced Options"
+msgstr ""
+
+#: ../framework/admin/options/advanced.php:38
+#: ../framework/admin/options/general.php:50
+#: ../framework/admin/options/layout.php:234
+#: ../framework/admin/options/social_media.php:82
+#: ../framework/admin/options/typography.php:122
+msgid "Options saved"
+msgstr ""
+
+#: ../framework/admin/options/advanced.php:52
+msgid "Author Credits"
+msgstr ""
+
+#: ../framework/admin/options/advanced.php:55
+msgid "Show Author Credits"
+msgstr ""
+
+#: ../framework/admin/options/general.php:46
+#: ../framework/admin/options/layout.php:230
+msgid " Theme Options"
+msgstr ""
+
+#: ../framework/admin/options/general.php:63
+#: ../framework/admin/options/general.php:73
+#: ../framework/admin/options/general.php:83
+#: ../framework/admin/options/general.php:93
+#: ../framework/admin/options/general.php:104
+#: ../framework/admin/options/general.php:114
+#: ../framework/admin/options/general.php:123
+#: ../framework/admin/options/general.php:137
+#: ../framework/admin/options/layout.php:599
+#: ../framework/admin/options/layout.php:612
+#: ../framework/admin/options/layout.php:631
+#: ../framework/admin/options/layout.php:670
+#: ../framework/admin/options/layout.php:792
+#: ../framework/admin/options/layout.php:822
+#: ../framework/admin/options/layout.php:836
+#: ../framework/admin/options/layout.php:908
+#: ../framework/admin/options/layout.php:921
+#: ../framework/admin/options/layout.php:932
+#: ../framework/admin/options/social_media.php:95
+#: ../framework/admin/options/social_media.php:126
+#: ../framework/admin/options/social_media.php:271
+#: ../framework/admin/options/typography.php:148
+#: ../framework/admin/options/typography.php:331
+#: ../framework/admin/options/typography.php:364
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/admin/options/general.php:67
+msgid "Tracking"
+msgstr ""
+
+#: ../framework/admin/options/general.php:68
+msgid "Tracking ID"
+msgstr ""
+
+#: ../framework/admin/options/general.php:77
+#: ../framework/admin/options/general.php:78
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/admin/options/general.php:87
+msgid "Email Contact"
+msgstr ""
+
+#: ../framework/admin/options/general.php:88
+msgid "Email Address"
+msgstr ""
+
+#: ../framework/admin/options/general.php:97
+msgid "Footer"
+msgstr ""
+
+#: ../framework/admin/options/general.php:99
+msgid "Copyright / Footer Text"
+msgstr ""
+
+#: ../framework/admin/options/general.php:99
+msgid "Allowed HTML Tags: a, href, title, br, em, strong"
+msgstr ""
+
+#: ../framework/admin/options/general.php:108
+msgid "Currency"
+msgstr ""
+
+#: ../framework/admin/options/general.php:109
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../framework/admin/options/general.php:110
+msgid "Right Align Currency Symbol"
+msgstr ""
+
+#: ../framework/admin/options/general.php:110
+msgid "Display Currency Symbol to the right of the Price"
+msgstr ""
+
+#: ../framework/admin/options/general.php:118
+msgid "Reservation From"
+msgstr ""
+
+#: ../framework/admin/options/general.php:119
+msgid "24 Hour Clock"
+msgstr ""
+
+#: ../framework/admin/options/general.php:119
+msgid "Use a 24 hour clock on the reservation form vs AM / PM"
+msgstr ""
+
+#: ../framework/admin/options/general.php:128
+msgid "(Not Required) Resizes and crops images for [slideshow] shortcode."
+msgstr ""
+
+#: ../framework/admin/options/general.php:131
+msgid "Check to enable"
+msgstr ""
+
+#: ../framework/admin/options/general.php:132
+msgid "CONFIGURATION NEEDED! Please see theme documentation for help."
+msgstr ""
+
+#: ../framework/admin/options/general.php:133
+msgid ""
+"It is VERY important to keep Timthumb up to date. Keep up to date with the "
+"latest version of TimThumb found here:"
+msgstr ""
+
+#: ../framework/admin/options/general.php:135
+msgid "Enable"
+msgstr ""
+
+#: ../framework/admin/options/general.php:135
+msgid "May not work with your web host."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:110
+msgid "Responsive / Fluid"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:114
+msgid "Disable Responsive / Semi-Fluid"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:118
+msgid "Disable Responsive / Fixed"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:603
+msgid "Enable / Disable Responsive"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:604
+#: ../framework/admin/options/options.php:55
+msgid "Layout"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:615
+msgid "Skin Selection"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:616
+msgid "Styles"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:634
+msgid "Custom Color Selection"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:637
+msgid "Choose your own"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:640
+msgid "Use custom colors (select below)"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:647
+msgid "Custom Color Field Populator"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:648
+msgid "To help you get started. (Save after you select.)"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:672
+msgid "A background color for the sidebar."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:672
+msgid "A contrasting color for the sidebar"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:675
+msgid "A good option for your primary company color."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:686
+msgid ""
+"Choose a color that contrasts nicely with your select background color for "
+"the sidebar."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:701
+msgid "Website background"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:704
+msgid ""
+"Select a slight tint of your sidebar background color. (Subtle for rulers "
+"and soft fills)"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:715
+msgid "Choose a colour for your website background. An off white works nicely."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:731
+msgid "Page and content background color"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:731
+msgid "Headings & text color"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:734
+msgid "Choose something very light (bright white works well)."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:745
+msgid "Choose a dark color for good contrast."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:796
+#: ../framework/admin/options/layout.php:797
+msgid "Logo"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:804
+msgid "Resize to fit on save"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:806
+msgid "If your logo is larger than 260px, we will resize it to fit."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:825
+msgid "Header Image"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:827
+msgid "Use header image:"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:829
+msgid "Yes, use a custom header image. (upload below)"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:839
+msgid "Upload header images - up to"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:841
+msgid "Auto crop and sew on save"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:843
+msgid "Combine your header images below."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:846
+#: ../framework/admin/options/layout.php:854
+#: ../framework/admin/options/layout.php:860
+#: ../framework/admin/options/layout.php:867
+#: ../framework/admin/options/layout.php:874
+#: ../framework/admin/options/layout.php:881
+#: ../framework/admin/options/layout.php:888
+#: ../framework/admin/options/layout.php:895
+msgid "Image"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:912
+msgid "Background Tile"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:912
+msgid "Enter a URL or upload a background tile here."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:916
+msgid "Sidebar Tile"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:916
+msgid "Enter a URL or upload a sidebar tile here."
+msgstr ""
+
+#: ../framework/admin/options/layout.php:924
+msgid "Page Corners"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:927
+msgid "Disable / Hide"
+msgstr ""
+
+#: ../framework/admin/options/layout.php:930
+msgid "Hide Page Corner Styles"
+msgstr ""
+
+#: ../framework/admin/options/options.php:43
+#: ../framework/admin/options/social_media.php:78
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/admin/options/options.php:55
+msgid "General"
+msgstr ""
+
+#: ../framework/admin/options/options.php:55
+msgid "Social Media"
+msgstr ""
+
+#: ../framework/admin/options/options.php:55
+msgid "Typography"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:45
+msgid "Bright White"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:49
+msgid "Light Grey"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:53
+msgid "Neutral Grey"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:57
+msgid "Charcoal Grey"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:61
+msgid "Almost Black"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:65
+msgid "Black"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:98
+msgid "Custom Icon Color"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:101
+msgid "Use Custom Icon Color"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:105
+msgid "Check and select a color below."
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:109
+msgid "Icon Color Selection"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:110
+msgid "Choose from"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:131
+msgid "Social Media Account Links"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:263
+msgid "Email Link"
+msgstr ""
+
+#: ../framework/admin/options/social_media.php:265
+msgid "Phone URL"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:118
+msgid "Theme Typography Options"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:153
+msgid "Sample Text for Font Preview"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:160
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:234
+msgid "The five boxing wizards jump quickly."
+msgstr ""
+
+#: ../framework/admin/options/typography.php:326
+msgid "Clear H1"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:326
+msgid "Clear"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:334
+msgid "Custom Google Font"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:334
+msgid "Find More"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:336
+msgid "Choose a Font Name"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:337
+msgid "Custom Font CSS"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:345
+msgid "Heading Sizes"
+msgstr ""
+
+#: ../framework/admin/options/typography.php:352
+msgid "Includes Page Titles"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:28
+msgctxt "post type general name"
+msgid "Food Menu"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:29
+msgctxt "post type singular name"
+msgid "Menu Item"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:30
+msgctxt "food"
+msgid "Add New"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:31
+msgid "Add New Menu Item"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:32
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:33
+msgid "New Menu Item"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:34
+msgid "All Menu Items"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:35
+msgid "View Menu Item"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:36
+msgid "Search Food Menu"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:37
+msgid "No Menu Items found"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:38
+msgid "No Menu Items found in Trash"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:40
+msgid "Food Menu"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:67
+#, php-format
+msgid "Menu item updated. <a href=\"%s\">View menu item</a>"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:68
+msgid "Custom field updated."
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:69
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:70
+msgid "Menu item updated."
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:72
+#, php-format
+msgid "Menu item restored to revision from %s"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:73
+#, php-format
+msgid "Menu item published! Looks tasty! <a href=\"%s\">View menu item</a>"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:74
+msgid "Menu item saved."
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:75
+#, php-format
+msgid ""
+"Menu item submitted. <a target=\"_blank\" href=\"%s\">Preview Menu Item</a>"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:76
+#, php-format
+msgid ""
+"Menu item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Menu item</a>"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:78
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:79
+#, php-format
+msgid ""
+"Menu item draft updated. <a target=\"_blank\" href=\"%s\">Preview menu item</"
+"a>"
+msgstr ""
+
+#: ../framework/custom_types/menu_item.php:94
+msgid "Show All Food Items"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:22
+msgid "Menu Item Details"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:34
+msgid "Price Description"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:35
+msgid "Price Description (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:40
+#: ../framework/metaboxes/menu_item_details.php:41
+msgid "Price"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:46
+msgid "Second Price Description"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:47
+msgid "Second Price Description (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:52
+msgid "Second Price"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:53
+msgid "Second Price (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:58
+msgid "Third Price Description"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:59
+msgid "Third Price Description (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:64
+msgid "Third Price"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:65
+msgid "Third Price (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:70
+msgid "Fourth Price Description"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:71
+msgid "Fourth Price Description (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:76
+msgid "Fourth Price"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:77
+msgid "Fourth Price (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:82
+msgid "Fifth Price Description"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:83
+msgid "Fifth Price Description (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:88
+msgid "Fifth Price"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:89
+msgid "Fifth Price (optional)"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:94
+msgid "Item Details Link"
+msgstr ""
+
+#: ../framework/metaboxes/menu_item_details.php:95
+msgid "Disable Link to Item Details Page"
+msgstr ""
+
+#: ../framework/settings/sidebars.php:6
+msgid "Above Sidebar Navigation"
+msgstr ""
+
+#: ../framework/settings/sidebars.php:14
+msgid "Below Sidebar Navigation"
+msgstr ""
+
+#: ../framework/settings/sidebars.php:22
+msgid "Mobile Sidebar"
+msgstr ""
+
+#: ../framework/shortcodes/toggle.php:30
+msgid "Click To Open"
+msgstr ""
+
+#: ../framework/taxonomies/food_menu.php:11
+msgid "Menu Groups"
+msgstr ""
+
+#: ../framework/taxonomies/food_menu.php:13
+msgid "Menu Group"
+msgstr ""
+
+#: ../framework/widgets/text_widget_centered.php:9
+msgid "Arbitrary text or HTML - Centered"
+msgstr ""
+
+#: ../framework/widgets/text_widget_centered.php:17
+msgid "Text Centered"
+msgstr ""
+
+#: ../framework/widgets/text_widget_centered.php:64
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/text_widget_centered.php:75
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#~ msgid "SITE BY THEMOVATION"
+#~ msgstr "HI!"

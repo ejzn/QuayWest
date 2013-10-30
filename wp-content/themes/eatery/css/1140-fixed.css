@@ -1,0 +1,5 @@
+/* CSS Document */
+
+.row{ min-width: 960px; max-width: 960px; } 
+.fourcol{ min-width:250px;} 
+.eightcol{min-width:610px;  margin-left:10px}
